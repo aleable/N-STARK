@@ -1,0 +1,6 @@
+.git
+code/cache
+code/__pycache__
+code/.ipynb_checkpoints
+.idea
+code/images
