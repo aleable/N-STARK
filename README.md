@@ -1,4 +1,4 @@
-![alt text](https://github.com/aleable/N-STARK-develop/blob/main/misc/logo.svg)
+![alt text](https://github.com/aleable/N-STARK/blob/main/misc/logo.svg)
 
 ___
 
