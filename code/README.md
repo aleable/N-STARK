@@ -206,7 +206,7 @@ if self.pflux >= 0.0:                       # sanity check
 
 ## Usage examples
 
-For a basic usage example of the code you can simply take a look look at ```dashboard.ipynb```. <br/>
+For a basic usage example of the code you can simply take a look at ```dashboard.ipynb```. <br/>
 The execution of N-STARK is performed in three steps:
 - *Initialization*: first, you need to pass the necessary parameters to the N-STARK class. Similarly to what done in ```dashboard.ipynb```, you can simply run:
 
