@@ -4,7 +4,7 @@ ___
 
 N-STARK (**N**on-**STA**tionary loads **R**outing on networ**K**s) is a Python implementation of the algorithms used in:
 
-- [1] Alessandro Lonardi, Enrico Facca, Mario Putti and Caterina De Bacco. <i>Infrastructure adaptation and emergence of loops in network routing with time-dependent loads</i> <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.024302">Phys. Rev. E 107, 024302</a> [<a href="https://arxiv.org/abs/2112.10620">arXiv</a>].
+- [1] Alessandro Lonardi, Enrico Facca, Mario Putti and Caterina De Bacco. <i>Infrastructure adaptation and emergence of loops in network routing with time-dependent loads</i>. <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.024302">Phys. Rev. E 107, 024302</a> [<a href="https://arxiv.org/abs/2112.10620">arXiv</a>].
 
 This is a scheme capable of solving network routing problems with input loads injected in the nodes that change in time. Optimal solutions are computed solving a dynamical system of equations.
 
